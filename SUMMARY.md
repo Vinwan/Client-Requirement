@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [说明](README.md)
+* [发现](chapter1.md)
+
