@@ -1,3 +1,26 @@
-# My Awesome Book
+# 说明
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本次改版包含重新定义了 C 端 App 的结构，分为「找」「聊」「我」。
+
+「找」部分包含了用户寻找职位的全部流程，包括了：
+
+* 搜索职位
+* 直约职位
+* 推荐职位
+
+「聊」部分包含了所有 B 与 C 的沟通，包括了：
+
+* 职位申请
+* 意向邀约
+* 企业约聊
+
+「我」部分包括了 C 端用户的相关个人信息：
+
+* 我的投递记录
+* 我的简历
+* ...
+
+本文档通过 App 的结构来对整体的改版进行描述。
+
+
+
